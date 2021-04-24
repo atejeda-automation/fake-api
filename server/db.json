@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Atejeda",
+      "password": "0040f2abc2cff0c8f59883b99ae9fab6", 
+      "role": "admin",
+      "token_id": "a0e58d7457dd5241aaf41ea88fc27564"
+    },
+    {
+      "id": 2,
+      "username": "Guest",
+      "password": "0040f2abc2cff0c8f59883b99ae9fab6",
+      "role": "user",
+      "token_id": "cbe14f644653aae198777f457c8ad604"
+    }
+  ]
+}
